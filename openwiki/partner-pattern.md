@@ -12,6 +12,8 @@ sources:
     resource: repo://libs/langchain_v1/langchain/chat_models/base.py
   - id: openwiki-source-e0b95eafb4bbd52f491c8cee
     resource: repo://libs/model-profiles/README.md
+  - id: openwiki-source-72242956313388d9a89b5639
+    resource: repo://libs/partners/anthropic/langchain_anthropic/_version.py
   - id: openwiki-source-7de1ace618efbdfd8bacb5cb
     resource: repo://libs/partners/anthropic/langchain_anthropic/chat_models.py
   - id: openwiki-source-f416dbc063b474398e38ff3c
@@ -20,8 +22,6 @@ sources:
     resource: repo://libs/partners/anthropic/langchain_anthropic/data/profile_augmentations.toml
   - id: openwiki-source-04e3ac4f56ff2adb2b02de7d
     resource: repo://libs/partners/anthropic/pyproject.toml
-  - id: openwiki-source-8641a971af4f11b852966d77
-    resource: repo://libs/partners/openai/langchain_openai/chat_models/__init__.py
   - id: openwiki-source-3bc725a9a39d534be6f46d18
     resource: repo://libs/partners/openai/langchain_openai/chat_models/_compat.py
   - id: openwiki-source-738512768ef81ae009b097ac
@@ -39,7 +39,7 @@ sources:
 generated: { by: "openwiki/0.5.0", at: "2026-11-24T08:17:18.845Z" }
 verified:
   - by: openwiki/0.5.0
-    at: 2026-11-24T08:17:18.845Z
+    at: 2026-11-26T08:16:53.101Z
 ---
 
 ## Overview
